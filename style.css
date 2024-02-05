@@ -13,7 +13,7 @@
     top: -3px;
     width: 100%;
     min-height: 100px;
-    background: black;
+    background: white;
 }
 
 .logo{
@@ -49,4 +49,50 @@
 .search img{
     position: absolute;
     background: transparent;
+    top: 8px;
+    right: 5px;
+    width: 24px;
+}
+
+.log-sign{
+    position: absolute;
+    width: 135px;
+    height: 44px;
+    background: #f0f0f1;
+    border: 0;
+    border-radius: 10px;
+    top: 22px;
+    left: 91px;
+}
+
+.log-sign a{
+    font-size: 15px;
+    text-align: center;
+    position: absolute;
+    display: block;
+    text-decoration: none;
+    color: black;
+    top: 11px;
+    left: 32px;
+    font-weight: 900;
+}
+
+.log-sign img{
+    top: 7px;
+    position: relative;
+    left: 4px;
+}
+
+.log-sign span img{
+    top: 8px;
+    position: relative;
+    left: 76px;
+}
+
+.basket img{
+    position: absolute;
+    top: 26px;
+    left: 26px;
+    background: transparent;
+    width: 36px;
 }
