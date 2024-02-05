@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head img{
+    width: 100%;
+    min-height: auto;
+}
