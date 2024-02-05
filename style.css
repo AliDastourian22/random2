@@ -7,3 +7,46 @@
     width: 100%;
     min-height: auto;
 }
+
+.container-head{
+    position: relative;
+    top: -3px;
+    width: 100%;
+    min-height: 100px;
+    background: black;
+}
+
+.logo{
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 20px;
+    right: 38px;
+}
+
+.search{
+    position: absolute;
+    width: 600px;
+    height: 40px;
+    background-color: #F0F0F1;
+    top: 23px;
+    right: 182px;
+    border: 0;
+    border-radius: 10px;
+}
+
+.int-search{
+    position: absolute;
+    width: 600px;
+    height: 40px;
+    background-color: #F0F0F1;
+    border: 0;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.search img{
+    position: absolute;
+    background: transparent;
+}
