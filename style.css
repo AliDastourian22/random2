@@ -412,3 +412,14 @@
     position: relative;
     left: 20px;
 }
+
+.sup-slider-container{
+    width: 1200px;
+    height: 250px;
+    background: darkred;
+    border-radius: 20px 20px 20px 20px;
+    border: 0;
+    position: relative;
+    top: 84px;
+    left: 24px;
+}
