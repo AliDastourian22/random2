@@ -192,9 +192,9 @@
     border: 0;
     border-radius: 50%;
     position: absolute;
-    right: 90px;
+    right: 45px;
     top: 42px;
-    z-index: 1;
+
 }
 
 .click-right img{
@@ -211,9 +211,9 @@
     border: 0;
     border-radius: 50%;
     position: absolute;
-    left: 90px;
+    left: 45px;
     top: 42px;
-    z-index: 1;
+
 }
 .click-left img{
     width: 26px;
