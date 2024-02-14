@@ -699,4 +699,32 @@
     font-weight: bold;
 }
 
+.itmes-offer li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.itmes-offer img{
+    width: 85px;
+    height: 80px;
+    padding-left: 81px;
+    margin-top: 12px;
+    position: relative;
+    top: -8px;
+    left: -38px;
+}
+
+.digi-offers a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.digi-offers a p{
+    position: relative;
+    top: -11px;
+}
+
 
