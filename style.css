@@ -613,4 +613,39 @@
     border-radius: 9px 9px 9px 9px;
 }
 
+.cagetory {
+    position: relative;
+    background: transparent;
+    width: 1197px;
+    height: 263px;
+    top: 130px;
+    left: 26px;
+}
 
+.cagetory li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.cagetory h1{
+    text-align: center;
+    margin-top: 5px;
+    font-family: "B Traffic" , sans-serif;
+    font-weight: bold;
+}
+
+.cagetory li img{
+    width: 85px;
+    height: 80px;
+    padding-left: 81px;
+    padding-top: 31px;
+    margin-top: -2px;
+    position: relative;
+    top: -22px;
+    left: -39px;
+}
+.cagetory a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
