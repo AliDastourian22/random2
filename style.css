@@ -536,3 +536,13 @@
     font-weight: bold;
     left: 1px;
 }
+.offer{
+    width: 143px;
+    height: 228px;
+    background: whitesmoke;
+    position: absolute;
+    right: 11px;
+    top: 12px;
+}
+
+
