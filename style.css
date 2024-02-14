@@ -864,3 +864,121 @@
     top: 36px;
     right: 900px;
 }
+
+.plus-container{
+    position: relative;
+    top: 312px;
+    left: 26px;
+    width: 1197px;
+    height: 300px;
+    background: #941b80;
+    border: 0;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.image-box{
+    width: 800px;
+    height: 280px;
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    background: white;
+    border: 0;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.plus-section{
+    width: 320px;
+    height: 280px;
+    position: absolute;
+    top: 12px;
+    right: 10px;
+    background: #941b80;
+    border: 0;
+    border-radius: 15px 15px 15px 15px;
+}
+.plus-section img{
+    width: 269px;
+    height: 211px;
+    position: absolute;
+    top: 78px;
+    left: -36px;
+}
+.plus-section a{
+    font-family: "Monotype Corsiva" , sans-serif;
+    font-size: 55px;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 32px;
+}
+
+.plus-section span{
+    font-family: "B Traffic" , sans-serif;
+    font-weight:  normal;
+    font-size: medium;
+    color: white;
+    position: absolute;
+    top: 62px;
+    right: 31px;
+}
+
+.button{
+    position: absolute;
+    top: 93px;
+    background: #941b80;
+    right: 28px;
+    width: 95px;
+    height: 35px;
+    border: 1px solid white;
+
+    border-radius: 10px 10px 10px 10px;
+}
+.button img{
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 2px;
+    color: white;
+}
+.button a{
+    font-family: "B Traffic" , sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    right: 10px;
+    top: 4px;
+}
+
+.image-box li{
+    display: inline-block;
+    list-style-type: none;
+}
+
+.image-box li img{
+    width: 80px;
+    height: 80px;
+    background: red;
+    position: relative;
+    top: 31px;
+    left: -33px;
+    margin-left: 50px;
+    margin-top: 24px;
+}
+.image-box h1{
+    position: absolute;
+    font-family: "B Traffic" , sans-serif;
+    font-size: 20px;
+    right: 15px;
+}
+#image-box{
+    text-decoration: none;
+    color: #941b80;
+    font-family: "B Traffic" , sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 15px;
+    position: absolute;
+    top: 10px;
+}
