@@ -982,3 +982,108 @@
     position: absolute;
     top: 10px;
 }
+
+.club{
+    position: relative;
+    top: 324px;
+    left: 26px;
+    border: 0;
+    border-radius: 15px 15px 15px 15px;
+    width: 1197px;
+    height: 90px;
+    background: linear-gradient(190deg,blue,navy);
+}
+.club img{
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 26px;
+    right: 26px;
+}
+.talk{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 160px;
+    height: 50px;
+    background: white;
+    border: 0;
+    border-radius: 15px 0 0 15px;
+}
+.talk img{
+    width: auto;
+    height: 100%;
+    position: absolute;
+    left: -1px;
+    top: 0;
+    border: 0;
+    border-radius: 14px 0 0 14px;
+}
+.talk a{
+    position: absolute;
+    text-decoration: none;
+    color: blue;
+    font-family: "B Traffic" , sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    right: 5px;
+    top: 16px;
+}
+.missions{
+    position: absolute;
+    top: 20px;
+    left: 187px;
+    width: 160px;
+    height: 50px;
+    background: white;
+    border: 0;
+    border-radius: 0 0 0 0;
+}
+.missions img{
+    width: auto;
+    height: 100%;
+    position: absolute;
+    left: 1px;
+    top: 0;
+    border: 0;
+    border-radius: 14px 0 0 14px;
+}
+.missions a{
+    position: absolute;
+    text-decoration: none;
+    color: blue;
+    font-family: "B Traffic" , sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    right: 5px;
+    top: 16px;
+}
+.wheel{
+    position: absolute;
+    top: 20px;
+    left: 356px;
+    width: 160px;
+    height: 50px;
+    background: white;
+    border: 0;
+    border-radius: 0 0 0 0;
+}
+.wheel img{
+    width: auto;
+    height: 100%;
+    position: absolute;
+    left: 1px;
+    top: 0;
+    border: 0;
+    border-radius: 14px 0 0 14px;
+}
+.wheel a{
+    position: absolute;
+    text-decoration: none;
+    color: blue;
+    font-family: "B Traffic" , sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    right: 5px;
+    top: 16px;
+}
