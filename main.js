@@ -51,3 +51,10 @@ Slider();
 var Timer = setInterval(function (){
     Slider();
 },2500)
+
+$('#left-2').click(function () {
+    $('#Phone-TOp-Ul').animate({'margin-left': "-=350px"}, 800)
+})
+$('#right-2').click(function () {
+    $('#phone-top-ul').animate({'margin-left': "+=350px"}, 800)
+})
