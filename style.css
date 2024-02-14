@@ -677,7 +677,7 @@
 .digi-offers{
     position: relative;
     background: white;
-    top: 267px;
+    top: 217px;
     width: 1197px;
     height: 203px;
     left: 26px;
@@ -692,9 +692,11 @@
 
 }
 .table-name{
+    width: 300px;
+    height: 60px;
     position: relative;
-    top: 248px;
-    left: 559px;
+    top: 226px;
+    left: 538px;
     font-family: "B Traffic" , sans-serif;
     font-weight: bold;
 }
@@ -727,4 +729,138 @@
     top: -11px;
 }
 
+.brands-container{
+    position: relative;
+    top: 245px;
+    left: 26px;
+    width: 1197px;
+    height: 220px;
+    background: transparent;
+    border: 1px solid #a5a5a5;
+    border-radius: 15px 15px 15px 15px;
+}
 
+.brands-slider{
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: transparent;
+    margin-left: 0;
+    border: 1px solid #a5a5a5;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.brands-slider li{
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 96px;
+    padding-right: 29px;
+    padding-left: 6px;
+}
+
+.brands-slider div img{
+    width: 100px;
+    height: 80px;
+    border-radius: 0;
+}
+
+.offers3{
+    width: 1197px;
+    height: 263px;
+    position: relative;
+    top: 272px;
+    left: 26px;
+    background: transparent;
+}
+
+.offers3 li{
+
+    list-style-type: none;
+    display: inline-block;
+    width: 596px;
+    height: 263px;
+    background: red;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.offers3 li img{
+    width: 100%;
+    height: 100%;
+    border-radius: 14px 14px 14px 14px;
+}
+
+.digi-offers2{
+    position: relative;
+    background: white;
+    top: 293px;
+    width: 1197px;
+    height: 417px;
+    left: 26px;
+    border: 1px solid #a5a5a5 ;
+    border-radius:  15px 15px 15px 15px;
+}
+
+.digi-offers2 img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 100%;
+
+}
+.itmes-offer2 li{
+    list-style-type: none;
+    display: inline-block;
+}
+ .itmes-offer2 li a{
+     position: relative;
+     margin-left: 159px;
+     top: 5px;
+     font-size: 15px;
+     font-weight: bold;
+     font-family: "B Traffic" , sans-serif;
+ }
+
+
+
+#a-1{
+    position: absolute;
+    right: 900px;
+}
+
+#a-2{
+    position: absolute;
+    right: 297px;
+}
+#a-3{
+    position: absolute;
+    right: 600px;
+}
+#a-4{
+    position: absolute;
+    right: 10px;
+}
+
+.itmes-offer2 li  p{
+    position: absolute;
+    top: 36px;
+    right: 8px;
+}
+
+#b-2{
+    position: absolute;
+    top: 36px;
+    right: 297px;
+}
+#b-3{
+    position: absolute;
+    top: 36px;
+    right: 600px;
+}
+#b-4{
+    position: absolute;
+    top: 36px;
+    right: 900px;
+}
