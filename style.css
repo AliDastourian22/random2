@@ -229,7 +229,7 @@
     display: flex;
     justify-content: center;
     align-content: center;
-    background: transparent;
+    background: red;
     margin-left: 84px;
 }
 .div-back div{
@@ -423,3 +423,78 @@
     top: 84px;
     left: 24px;
 }
+
+.sup-slider-container li{
+    list-style-type: none;
+    padding-left: 4px;
+    display: inline-block;
+    width: 180px;
+    height: 220px;
+    background: white;
+    position: relative;
+    top: 18px;
+    left: 6px;
+    border-radius: 7px 7px 7px 7px;
+}
+
+.sup-slider-container li img{
+    width: 536px;
+    height: 441px;
+    position: absolute;
+    top: -143px;
+    left: -178px;
+}
+
+.phone-carrier{
+    width: 990px;
+    overflow: hidden;
+    height: 247px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: darkred;
+    margin-left: 24px;
+    position: absolute;
+    top: 2px;
+}
+
+.right-2{
+    width: 25px;
+    height: 25px;
+    background: whitesmoke;
+    position: absolute;
+    top: 132px;
+    right: 164px;
+    border: 0;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.right-2 img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 2px;
+    left: 2px;
+}
+
+.left-2{
+    width: 25px;
+    height: 25px;
+    background: whitesmoke;
+    position: absolute;
+    top: 132px;
+    left: 34px;
+    border: 0;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.left-2 img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 2px;
+    left: 2px;
+}
+
